@@ -83,7 +83,7 @@ async function main() {
 main();
 
 // run the code in terminal  :
-// node totalGoals.js
+// node challenge1/totalGoals.js
 
 //example :
 // Enter team name: Barcelona
